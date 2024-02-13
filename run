@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Execute the Python script with provided arguments
+python src "$@"
